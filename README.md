@@ -1,6 +1,6 @@
   <h1 align="center">
     Oi, eu sou o 
-    <a href="#">mais gay do mundo</a>
+    <a href="#">Lucas Manzato </a>
   </h1>
   
    <p align="center">
@@ -9,8 +9,8 @@
 
 <div align="center" style="display: inline_block"> 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jonathan&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jonathan&layout=compact&theme=radical)](https://github.com/dev-jonathan/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmanzato&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmanzato&layout=compact&theme=radical)](https://github.com/lucasmanza/github-readme-stats)
  
  </div > 
 
