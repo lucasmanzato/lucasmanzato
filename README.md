@@ -4,7 +4,19 @@
   </h1>
   
    <p align="center">
-  Tenho 21 anos e desde criança, sempre fui fascinado por computadores, eletrônicos, tecnologia em geral. Atualmente, estou estudando Sistemas de Informação na Universidade Federal de Uberlândia para me tornar um profissional de TI qualificado.
+  Sou graduando em Sistemas de Informação (Bacharelado) pela Universidade Federal de Uberlândia (UFU), campus de Monte Carmelo (2021-2024). Tenho formações complementares, feitas sob a forma de cursos de curta duração, em Git/GitHub e Overleaf (Latex). Também fui monitor da disciplina "Lógica para Computação", oferecida pela FACOM/UFU (Faculdade de Computação da Universidade Federal de Uberlândia), em 2022, atuando como plantonista de dúvidas para os demais alunos. </p>
+
+<p align="center">
+  Tenho alguma experiência nas linguagens C, Java, Phyton, Html, CSC, PHP, JavaScript, SQL, entre outras. Compreendo bem inglês, sou proativo, comunicativo e gosto de trabalhar em equipe. Procuro aprimorar meus conhecimentos na área e me desenvolver pessoal e profissionalmente.
+.
+.
+. </p>
+<p align="center">
+  I am an undergraduate student in Information Systems (Bachelor's degree) at the Federal University of Uberlândia (UFU), Monte Carmelo campus (2021-2024). I have complementary training in the form of short-duration courses in Git/GitHub and Overleaf (LaTeX). I also served as a monitor for the course 'Logic for Computing' offered by FACOM/UFU (Faculty of Computing at the Federal University of Uberlândia) in 2022, where I provided assistance to other students with their doubts.
+  </p>
+
+<p align="center">
+  I have some experience in programming languages such as C, Java, Python, HTML, CSS, PHP, JavaScript, SQL, among others. I have a good understanding of English, and I am proactive, communicative, and enjoy working in a team. I strive to improve my knowledge in the field and develop personally and professionally.
   </p>
 
 <div align="center" style="display: inline_block"> 
