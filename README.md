@@ -7,7 +7,7 @@
   Sou graduando em Sistemas de Informação (Bacharelado) pela Universidade Federal de Uberlândia (UFU), campus de Monte Carmelo (2021-2024). Tenho formações complementares, feitas sob a forma de cursos de curta duração, em Git/GitHub e Overleaf (Latex). Também fui monitor da disciplina "Lógica para Computação", oferecida pela FACOM/UFU (Faculdade de Computação da Universidade Federal de Uberlândia), em 2022, atuando como plantonista de dúvidas para os demais alunos. </p>
 
 <p>
-  Tenho alguma experiência nas linguagens C, Java, Phyton, Html, CSC, PHP, JavaScript, SQL, entre outras. Compreendo bem inglês, sou proativo, comunicativo e gosto de trabalhar em equipe. Procuro aprimorar meus conhecimentos na área e me desenvolver pessoal e profissionalmente.
+  Tenho alguma experiência nas linguagens C, Java, Phyton, Html, CSS, PHP, JavaScript, SQL, entre outras. Compreendo bem inglês, sou proativo, comunicativo e gosto de trabalhar em equipe. Procuro aprimorar meus conhecimentos na área e me desenvolver pessoal e profissionalmente.
  <p> .
 .
 . 
